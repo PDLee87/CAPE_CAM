@@ -31,5 +31,5 @@ To install the required dependencies, run:
 
 **Output**
 The resulting file includes:
-Cosine_Similarity: A score based on TF-IDF vectorization.
-Semantic_Similarity: A score based on Sentence Transformers.
+1. Cosine_Similarity: A score based on TF-IDF vectorization.
+2. Semantic_Similarity: A score based on Sentence Transformers.
