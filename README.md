@@ -7,7 +7,7 @@ This project calculates text similarity between CAM (Critical Audit Matters) and
 The script reads an Excel file containing CAM and CAPE text, computes similarity scores, and saves the results in a new Excel file.
 
 **Author**
-Daeun Lee,
+Daeun (Philip) Lee,
 Assistant Professor of Accounting,
 California Polytechnic State University
 
