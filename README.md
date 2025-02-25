@@ -4,7 +4,7 @@
 This project calculates text similarity between CAM (Critical Audit Matters) and CAPE (Critical Accounting Policies and Estiamte) using two methods:
 1. Cosine Similarity via TF-IDF
 2. Semantic Similarity via Sentence Transformers (all-MiniLM-L6-v2)
-The script reads an Excel file containing CAM and CAPE text, computes similarity scores, and saves the results in a new Excel file.
+The script reads an Excel file containing CAM (in column A) and CAPE text (in column B), computes similarity scores, and saves the results in a new Excel file.
 
 **Author**
 Daeun (Philip) Lee,
