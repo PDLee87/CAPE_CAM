@@ -24,7 +24,7 @@ To install the required dependencies, run:
 
 **Usage**
 1. Place your input Excel file in the specified directory.
-2. pdate the input_dir and input_file variables in the script.
+2. Update the input_dir and input_file variables in the script.
 3. Run the script:
 ```python similarity_analysis.py```
 4. The output Excel file will be saved with similarity scores.
