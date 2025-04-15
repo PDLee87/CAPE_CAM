@@ -6,10 +6,6 @@ This project calculates text similarity between CAM (Critical Audit Matters) and
 2. Semantic Similarity via Sentence Transformers (all-MiniLM-L6-v2)
 The script reads an Excel file containing CAM (in column A) and CAPE text (in column B), computes similarity scores, and saves the results in a new Excel file.
 
-**Author**
-Daeun (Philip) Lee,
-Assistant Professor of Accounting,
-California Polytechnic State University
 
 **Installation & Dependencies**
 This project requires Python and the following libraries:
